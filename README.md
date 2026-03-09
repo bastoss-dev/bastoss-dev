@@ -1,5 +1,9 @@
+<p align="center">
+<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200">
+</p>
+
 <h1 align="center">Olá 👋, eu sou Yuri Bastos</h1>
-<h3 align="center">Estudante de Ciência da Computação | Iniciante em Python</h3>
+<h3 align="center">Estudante de Ciência da Computação | Iniciante em Python 🐍</h3>
 
 ---
 
