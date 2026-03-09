@@ -23,14 +23,10 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastoss-dev&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bastoss-dev&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bastoss-dev)
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bastoss-dev&theme=tokyonight" />
+</p>
 ---
 
 ## 📚 Atualmente estudando
