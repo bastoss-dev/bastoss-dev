@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200">
+<img src="https://www.clipartmax.com/png/small/224-2241038_pikachu-cartoon.png" width="200">
 </p>
 
 <h1 align="center">Olá 👋, eu sou Yuri Bastos</h1>
