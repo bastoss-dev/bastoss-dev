@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Yuri Bastos</h1>
+<h3 align="center">Estudante de Ciência da Computação | Iniciante em Python</h3>
 
-<!--
-**bastoss-dev/bastoss-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Ciência da Computação  
+📍 Maceió - AL, Brasil  
+🐍 Atualmente aprendendo Python  
+💻 Interessado em programação, tecnologia e desenvolvimento  
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bastoss-dev&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoss-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Python
+- ⚙️ Git e GitHub
+- 💻 Lógica de programação
+
+---
+
+## 📫 Contato
+
+📧 Email: yuribbastos11@gmail.com
