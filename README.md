@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bastoss-dev&theme=tokyonight" />
 </p>
----
+
 
 ## 📚 Atualmente estudando
 
